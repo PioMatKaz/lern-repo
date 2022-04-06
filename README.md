@@ -1,3 +1,3 @@
 # Demo
 
-I,m learning how to create a repo
+I,m learning how to create a repo.
